@@ -33,3 +33,8 @@ alert("I am trying to learn from the book" + " " + book);
 
 //QUESTION 8
 document.write("yah! I can write HTML content through Javascript");
+
+//QUESTION 9
+
+var design = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
+alert(design);

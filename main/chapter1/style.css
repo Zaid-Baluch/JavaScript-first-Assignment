@@ -1,0 +1,23 @@
+#omelette {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+#omelette img {
+  border-radius: 10px;
+}
+#preparation {
+  background-color: rgb(253, 225, 230);
+  margin: 20px;
+  padding: 10px;
+}
+#preparation h3 {
+  color: brown;
+}
+#ingredients h3 {
+  color: brown;
+}
+#instruction h3 {
+  color: brown;
+}
