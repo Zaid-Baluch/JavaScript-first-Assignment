@@ -9,12 +9,14 @@ var track = 10;
 alert("You have visited the site" + " " + track + " " + "times");
 
 //QUESTION 3
-var birthYear = 2006;
+document.write(" QUESTION 3 <br><br>");
+var birthYear = 2004;
 document.write("My birth year is" + " " + birthYear + "<br>");
 document.write("Data Type of my declared variable is number <br> <br> <br>");
 
 //QUESTION 4
-var user_name = "Zaid Aijaz";
+document.write(" QUESTION 4 <br><br>");
+var user_name = "Sohaib raheem";
 var product_title = "T-Shirt(s)";
 var quantity = 10;
 

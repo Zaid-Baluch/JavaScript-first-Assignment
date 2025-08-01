@@ -1,4 +1,7 @@
+//       CHAPTER: 5 = MATH EXPRESSIONS | JAVASCRIPT
+
 //QUESTION 1
+document.write(" QUESTION 1 <br><br>");
 var num1 = 16;
 var num2 = 5;
 var sum = num1 + num2;
@@ -7,6 +10,7 @@ document.write(
 );
 
 //QUESTION 2
+document.write(" QUESTION 2 <br><br>");
 var sub = num1 - num2;
 document.write(
   "Subtraction of " + num1 + " and " + num2 + " is " + sub + "<br>"
@@ -26,6 +30,7 @@ document.write(
 );
 
 //QUESTION 3
+document.write(" QUESTION 3 <br><br>");
 var number;
 document.write("Value after variable declaration is: " + number + "<br>");
 number = 4;
@@ -40,6 +45,7 @@ number = number % 2;
 document.write("The remainder is: " + number + "<br> <br> <br> <br>");
 
 //QUESTION 4
+document.write(" QUESTION 4 <br><br>");
 var movie_ticket = 600;
 var ticket_quantity = 5;
 var total_cost = movie_ticket * ticket_quantity;
@@ -54,6 +60,7 @@ document.write(
 );
 
 //QUESTION 5
+document.write(" QUESTION 5 <br><br>");
 var num = 5;
 document.write(" Table of " + num + "<br>");
 document.write(num + " x 1 = " + num + "<br>");
@@ -68,6 +75,7 @@ document.write(num + " x 9 = " + num * 9 + "<br>");
 document.write(num + " x 10 = " + num * 10 + "<br><br><br><br>");
 
 //QUESTION 6
+document.write(" QUESTION 6 <br><br>");
 var celsius = 40;
 var fahrenheit = (celsius * 9) / 5 + 32;
 document.write(celsius + "°C is " + fahrenheit + "°F <br>");
@@ -76,6 +84,7 @@ document.write(
 );
 
 //QUESTION 7
+document.write(" QUESTION 7 <br><br>");
 var item1_price = 500;
 var item2_price = 200;
 var order1 = 2;
@@ -95,6 +104,7 @@ document.write(
 );
 
 //QUESTION 8
+document.write(" QUESTION 8 <br><br>");
 var total_marks = 800;
 var obt_marks = 750;
 document.write("total marks:" + total_marks + "<br>");
@@ -112,10 +122,12 @@ document.write(
 );
 
 //QUESTION 10
+document.write(" QUESTION 10 <br><br>");
 var numb = 10;
 document.write(((numb + 5) * 10) / 2 + "<br><br><br><br>");
 
 //QUESTION 11
+document.write(" QUESTION 11 <br><br>");
 var current_year = 2025;
 var birth_year = 2004;
 document.write(
@@ -123,12 +135,14 @@ document.write(
 );
 
 //QUESTION 12
+document.write(" QUESTION 12 <br><br>");
 var radius = 10;
 document.write("radius : " + radius + "<br>");
 document.write("The circumference is : " + 2 * 3.142 * 10 + "<br>");
 document.write("the area is : " + 3.142 * (10 * 10) + "<br><br><br><br>");
 
 //QUESTION 13
+document.write(" QUESTION 13 <br><br>");
 var snack = "Lays";
 var current_age = 21;
 var max_age = 65;
@@ -136,7 +150,7 @@ var per_day = 2;
 
 document.write(
   "you will need " +
-    (max_age - current_age) * 2 +
+    (max_age - current_age) * 365 * 2 +
     " " +
     snack +
     " to last you until the ripe old age of " +

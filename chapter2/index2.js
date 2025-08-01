@@ -4,16 +4,16 @@
 var myName;
 
 //QURSTION 2
-var myName = "Zaid";
+var myName = "Sohaib Raheem";
 
 //QUESTION 3
 var message = "Hello world !";
 alert(message);
 
 //QUESTION 4
-var studentName = "Zaid";
-var studentAge = "18 Years Old";
-var course = "web development";
+var studentName = "Sohaib";
+var studentAge = "21 Years Old";
+var course = "modern web development";
 
 alert(studentName);
 alert(studentAge);
@@ -24,7 +24,7 @@ var food = "PIZZA \nPIZ \nPIZ \nPI \np";
 alert(food);
 
 // QUESTION 6
-var email = "Zaidbeluch@gmail.com";
+var email = "sohaib@gmail.com";
 alert("My Email Adress is" + " " + email);
 
 //QUESTION 7
